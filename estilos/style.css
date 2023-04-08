@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-    background: url(../imgs/fundo-madeira.jpg) no-repeat top center;
+    background: url(../imgs/865098.jpg) no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -61,4 +61,3 @@ section#redes-sociais img:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.589);
     transition: transform .4s, border .1s;
 }
-

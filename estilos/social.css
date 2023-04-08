@@ -16,7 +16,7 @@ img {
 
 a {
     display: block;
-    background-color: rgb(107, 16, 16);
+    background-color: red;
     color: white;
     padding: 20px;
     text-align: center;
@@ -25,5 +25,6 @@ a {
 }
 
 a:hover {
-    background-color: red;
+    background-color:rgb(107, 16, 16);
+    background: url(../imgs/865098.jpg) no-repeat;
 }
